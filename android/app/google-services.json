@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555382260260",
+    "project_id": "tinderclone-50802",
+    "storage_bucket": "tinderclone-50802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555382260260:android:2d949e28fe7c2dd2014eb1",
+        "android_client_info": {
+          "package_name": "com.mytinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555382260260-0m5n5d8vv4c94uln7g1csuiot4nprdg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mytinder",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "555382260260-bhd7jc87ophah6ds2fnc3blmgrhsc48l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL94XlcWjC75qkWI7YDf1XXwPowBIgxsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555382260260-bhd7jc87ophah6ds2fnc3blmgrhsc48l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
